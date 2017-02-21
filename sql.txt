@@ -1,0 +1,7 @@
+UPDATE `catalog_category_entity_int` SET `value` = '1' WHERE `catalog_category_entity_int`.`entity_id` =4 AND `catalog_category_entity_int`.`attribute_id` = 42;
+//For setting is_active = No
+UPDATE `catalog_category_entity_int` SET `value` = '0' WHERE `catalog_category_entity_int`.`entity_id` =4 AND `catalog_category_entity_int`.`attribute_id` = 42;
+
+
+
+
