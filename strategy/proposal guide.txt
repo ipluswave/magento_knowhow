@@ -1,0 +1,281 @@
+
+python
+wordpress
+codeigniter
+laravel
+angular.js
+node.js
+python
+dango
+Odoo
+node
+angular.js
+php
+neo4j
+hbase
+sql
+html
+php
+
+points: client, job(fitable), 
+
+search by client fit.
+search by job fit.
+search by hirable( less than 20 proposal, no inverviewing, )
+
+
+
+
+Hidden Cards
+Low - hourly rate (15)
+less than 5 proposals
+
+
+
+
+
+
+
+
+
+Keyword: 
+NOT(skills:(graphic-design) OR skills:(logo-design) OR skills:(banner-design) OR skills:(content-writing) OR Legal OR iphone OR ipad OR android OR ios OR php OR python OR wordpress )
+NOT(iphone OR ipad OR android OR ios OR php OR python OR wordpress )
+php
+python
+wordpress
+
+category:
+web&mobile
+It & networking
+all
+
+Job Type
+Hourly 
+Fixed
+
+Experience Level
+$		
+$$		
+$$$
+
+Client History
+No Hires
+1-9
+10+
+
+Location:
+us
+australia
+canada
+
+Hours Per Week
+Part Time
+Full Time
+
+Project Length
+< a week
+< a month
+1-5 months
+> 6 months
+
+max proposal count: 
+5
+10
+20
+
+hire rate * hourly rate > 7.5
+
+
+aim: best client, hirable job.
+Keyword: 
+NOT(skills:(graphic-design) OR skills:(logo-design) OR skills:(banner-design) OR skills:(content-writing) OR Legal OR iphone OR ipad OR android OR ios OR php OR python OR wordpress )
+
+category:
+all
+
+Job Type
+Hourly 
+
+Experience Level	
+$$		
+$$$
+
+Client History
+1-9
+10+
+
+Location:
+us
+australia
+canada
+
+Hours Per Week
+Part Time
+Full Time
+
+Project Length
+< a week
+< a month
+1-5 months
+> 6 months
+
+max proposal count: 
+5
+10
+
+
+hire rate * hourly rate > 7.5
+
+aim: low rate job.
+Keyword: 
+php
+python
+wordpress
+
+category:
+all
+
+Job Type
+Hourly 
+
+Experience Level	
+$$		
+$$$
+
+Client History
+No Hires
+1-9
+10+
+
+Location:
+us
+australia
+canada
+
+Hours Per Week
+Part Time
+Full Time
+
+Project Length
+< a week
+< a month
+1-5 months
+> 6 months
+
+max proposal count: 
+5
+10
+20
+
+
+
+
+
+
+//==========================================================================
+keyword:
+php
+wordpress
+codeigniter
+laravel
+
+javascript
+angular.js
+node.js
+
+python
+dango
+Odoo
+
+
+neo4j
+hbase
+
+sql
+
+html
+css
+
+
+
+	
+way													max proposal	marks 	Order
+all category hourly not(entry level)	>1 hires  	20				100		1
+all category hourly entry level 		>1 hires  	20				30		2
+all category fixed not(entry level) 	>1 hires  	15				25		1
+all category fixed entry level			>1 hires  	15				10		2
+all category hourly not(entry level)	0 hires  	20				30		3
+all category hourly entry level 		0 hires  	20				10		4
+all category fixed not(entry level) 	0 hires  	10				8		3
+all category fixed entry level			0 hires  	10				3		4
+
+
+keyword:
+NOT(skills:(graphic-design) OR skills:(logo-design) OR skills:(banner-design) OR skills:(content-writing) OR Legal OR iphone OR ipad OR android OR ios OR php OR python OR wordpress )
+NOT(Assistant OR translate OR skills:(graphic-design) OR skills:(logo-design) OR skills:(banner-design) OR skills:(content-writing) OR Legal OR iphone OR ipad OR android OR ios)
+		
+		
+		
+		
+way													max proposal	marks
+all category hourly not(entry level)	>1 hires  	10				200
+
+
+
+
+
+
+
+
+
+
+
+
+Recent Searches 	Filter Order: Full Time PartTime 	Fixed	NoHires
+Main
+front OR frontend OR html OR css OR javascript OR jQuery OR angular OR angularjs OR node OR nodejs OR React OR reactjs OR mean OR meanstack
+(front OR frontend OR html OR css OR javascript OR jQuery OR angular OR angularjs OR node OR nodejs OR React OR reactjs OR mean OR meanstack OR fullstack OR longterm OR long)
+sass OR less OR Express OR expressjs OR Backbone OR backbonejs OR Ext OR extjs OR D3 OR d3js OR vue OR vuejs OR typescript OR Redux OR redux.js OR Ember OR emberjs OR Meteor OR meteorjs
+
+NOT(Assistant OR translate OR bot OR marketing OR accounting OR design OR translation OR support OR Consulting OR writing OR iphone OR ipad OR android OR ios OR html OR css OR php OR wordpress)
+
+Category Search
+
+
+
+PHP
+php OR codeigniter OR laravel OR magento
+
+
+Software
+Python OR Django OR Scrapy OR Java OR Spring OR c++ OR c# OR .net OR asp OR nunit OR selenium
+
+
+Database Search
+NOT(graphic-design OR logo-design OR banner-design)
+Database OR Query OR Elastic OR ElasticSearch OR PostgreSQL OR MySQL OR MongoDB OR Mongo OR Gremlin OR Cypher OR neo4j OR DynamoDB OR Titan OR SQL OR (Graph Database) Or (Database Schema) OR TinkerPOP 
+
+
+
+
+
+
+NoHire, Fixed, entry level, Location, parttime
+
+
+
+
+
+
+Guru AT:
+Magento, CodeIgniter, Laravel
+asp .net
+front end, html, css, javascript, jquery, angular
+PostgreSQL, mysql, MongoDB, neo4j, amazon dynamodb.
+
+1. 
+
+
+
+

@@ -1,0 +1,59 @@
+
+To do this, follow these steps:
+In Internet Explorer, click Tools, click Internet Options, and then click the Security tab.
+In the Select a Web content zone to specify its current security settings box, click Trusted Sites, and then click Sites.
+
+
+
+
+
+install chrome
+https://www.google.com/chrome/browser/desktop/
+
+
+install skype
+https://www.skype.com/en/download-skype/skype-for-computer/
+
+
+
+download vmware ( not)
+http://www.vmware.com/products/workstation/workstation-evaluation.html
+https://my.vmware.com/web/vmware/details?productId=462&downloadGroup=WKST-1112-WIN
+
+download vmware 11.1.0
+https://onedrive.live.com/?authkey=%21AMZ6yBkQalV0NuI&cid=F69D3099B1F2B6A3&id=F69D3099B1F2B6A3%21262&parId=F69D3099B1F2B6A3%21256&action=locate
+http://getintopc.com/softwares/virtualization/vmware-workstation-11-free-download/
+
+Download virtual box
+https://www.virtualbox.org/wiki/Downloads
+https://www.virtualbox.org/
+
+download win7
+http://getiintopc.com/getintopc-windows-7-one-iso-free-download/
+
+
+install win7 on vmware
+install track app
+
+download astrill
+http://getiintopc.com/getintopc-windows-7-one-iso-free-download/
+
+turn off auto restart
+defer feature updates
+
+
+
+
+
+download winrar
+http://www.rarlab.com/download.htm
+
+download visual studio
+https://www.microsoft.com/en-us/download/details.aspx?id=34673
+
+
+
+
+
+
+

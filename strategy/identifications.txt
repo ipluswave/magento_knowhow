@@ -1,0 +1,17 @@
+Name
+Birthday
+BirthPlace
+Address ( city, country, postal code)
+Current Job - company and role
+History
+Skill
+University
+Voice
+Language
+Camera
+Phone
+National Card, Driver License, Passport and other ( card image and card number)
+Bank Statement, Utility Bill, Municipal Bill, Residency Statement, Credit Card Statement and other Financial Statement.
+Credit Card issued date must be at last 6 months ago.
+
+

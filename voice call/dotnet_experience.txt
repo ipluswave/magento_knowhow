@@ -1,0 +1,92 @@
+ISO Stream
+
+The tool to play video stream while downloading from torrent.
+Containing desktop application and chrome/ff plugins.
+
+C, C++, Chrome Extension, FF Plugin, Video Streaming, Torrent
+
+
+LaSalleTV (WPF)
+
+Video reproduction tool in local TV stores.
+
+C#, WPF, XAML, Express Blend
+
+
+Benubird
+
+Document Processing Tool.
+
+Used Skills
+
+C/C++, PDF Processing
+
+
+NG Trace
+
+Network Security Tool
+
+C/C++, Network Security, IDS/IPS, Firewall, NDIS, TDI, TCP/IP, UDP, Packet Capturing
+
+
+Camera Control System
+
+The desktop application to control various cameras containing network cameras.
+
+C, C++, C#, WPF, WCF, XAML, WinForms, JPEG/MPEG Stream
+
+
+Data Extractor (C++)
+
+Data-Extractor is a standalone, independent software that does not require the use of additional libraries and software to function.
+
+The program is provided with a target folder path. It will recursively explore the folder and its sub-directories, checking for supported files. Supported files will then be processed. The content and meta-data found in the files will be retrieved and consolidated in a single summary report.
+Data-Extractor is invoked from the command line and does not require a graphics user interface.
+It is meant to be executed on a wide variety of Intel-x86 and x64 hardware platforms running possibly different editions of Microsoft Windows.
+The program functionality is carried out without consuming excessive CPU cycles, nor take up a substantial amount of main memory.
+
+
+Metro Chart
+
+Metro theme chart, latest Windows UI, modern style.
+
+C#, WPF, Silverlight, Telerik
+
+
+MedLobby
+
+The desktop application to process medical businesses for doctors and patients.
+
+Used Skills
+
+C#, WPF, Azure, MVVM, XAML
+
+
+Dashboard and Gauges
+
+This project is a collection of dashboard gauges implemented in Silverlight 2.0 and Windows Presentation Foundation. There are upwards of nineteen dials, gauges and displays in the library
+
+C#, WPF, Silverlight
+
+
+Node JS, Angular JS Development
+
+Used technologies: 
+* Node.js 
+* CoffeeScript 
+* Angular.js 
+* REST api
+This product is for people who prefer to use their time, not waste it. Remember that you mobile device can serve you as a tool, not as an entertainment gadget only.
+
+
+MEAN Full Stack Developer
+
+* Wrote standards-compliant client code for a variety of enterprise clients, handling accessibility & cross-platform testing.
+* Built UIs using HTML5, Canvas, SVG, CSS3 animations, and modern browser APIs such as geolocation, localStorage, and media access.
+* Created a real-time videochat app from scratch using Node.js and the Flash RTMP server.
+* Built MovieGames, a multi-user mobile game platform for cinema theaters. Developed the mobile client and game server, while also handling game design, game engine & demo development, and ops & wireless networking.
+* Developed a sports scores simulation framework for one of the leading news portals in Brazil. Used in the national soccer league coverage, but adaptable to any round-based sport. Predated Backbone.js with a client-side MVC architecture.
+* Created a high-level project architecture, upholding and improving code standards, processes and tools for a team of five developers.
+* Created Florinda, a bot & task runner for business chatrooms, written in Node.js + CoffeeScript.
+
+
