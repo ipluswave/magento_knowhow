@@ -277,5 +277,10 @@ PostgreSQL, mysql, MongoDB, neo4j, amazon dynamodb.
 1. 
 
 
+agile OR ongoing OR longterm OR (long AND term) OR team OR member OR jira OR atlassian OR trello OR asana OR hubstaff  OR git OR bitbucket OR github OR GitLab OR Slack OR skype OR ticket
+
+agile OR jira OR atlassian OR trello OR asana OR hubstaff  OR git OR bitbucket OR github OR GitLab OR Slack OR skype
 
 
+
+ruby OR rails OR ror OR angular OR php OR python OR django OR angularjs OR node OR nodejs OR flask
